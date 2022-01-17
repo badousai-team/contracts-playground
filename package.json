@@ -1,0 +1,27 @@
+{
+  "name": "contracts-playground",
+  "version": "1.0.0",
+  "private": true,
+  "author": "Badousai",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.2",
+    "@nomiclabs/hardhat-etherscan": "^2.1.8",
+    "@nomiclabs/hardhat-waffle": "^2.0.1",
+    "@openzeppelin/contracts": "^4.4.0",
+    "@openzeppelin/contracts-upgradeable": "^4.4.0",
+    "@openzeppelin/hardhat-upgrades": "^1.12.0",
+    "big.js": "^6.1.1",
+    "chai": "^4.3.4",
+    "chance": "^1.1.8",
+    "dotenv": "^10.0.0",
+    "ethereum-waffle": "^3.4.0",
+    "ethers": "^5.5.1",
+    "fs-extra": "^10.0.0",
+    "hardhat": "^2.6.8",
+    "hardhat-contract-sizer": "^2.1.1",
+    "hardhat-deploy": "^0.9.12",
+    "hardhat-gas-reporter": "^1.0.4",
+    "solhint": "^3.3.6",
+    "solidity-coverage": "^0.7.17"
+  }
+}
